@@ -1,0 +1,20 @@
+[2022-02-06 08:20:03.223] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-06 08:20:03.223] [remoteagent] [info] Extension host agent started.
+[2022-02-06 08:20:03.583] [remoteagent] [info] Deleted from disk ms-ceintl.vscode-language-pack-ja /root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.63.3
+[2022-02-06 08:20:04.050] [remoteagent] [info] [127.0.0.1][aced3c0e][ManagementConnection] New connection established.
+[2022-02-06 08:20:06.736] [remoteagent] [info] [127.0.0.1][9ff0e3cc][ExtensionHostConnection] New connection established.
+[2022-02-06 08:20:06.749] [remoteagent] [info] [127.0.0.1][9ff0e3cc][ExtensionHostConnection] <315> Launched Extension Host Process.
+[2022-02-06 09:01:12.051] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 09:39:37.541] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 09:39:55.911] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 09:48:40.469] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 09:48:58.313] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 8,
+  "port": 8888,
+  "root_dir": "/root",
+  "secure": false,
+  "sock": "",
+  "token": "abd3fe273f683383a104f8ddb4cb7a1817a0664260961e9d",
+  "url": "http://d547a169984c:8888/",
+  "version": "1.13.4"
+}

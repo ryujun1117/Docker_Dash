@@ -1,0 +1,204 @@
+Visual Studio Code (1.64.0, attached-container, desktop)
+Jupyter Extension Version: 2022.1.1001775990.
+Python Extension not installed.
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 06:45:26: ZMQ install verified.
+Info 06:45:26: Find preferred kernel for ~/Untitled.ipynb with metadata {"kernelspec":{"display_name":"Python 3 (ipykernel)","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.2"}} & preferred interpreter 
+Info 06:45:26: findKernel found Python 3 (ipykernel)
+Info 06:45:26: PreferredConnection: .python3.python..-m#ipykernel_launcher found for NotebookDocument: ~/Untitled.ipynb
+Info 06:45:26: TargetController found ID: .python3.python..-m#ipykernel_launcher for document ~/Untitled.ipynb
+Info 06:45:26: Setting controller affinity for ~/Untitled.ipynb .python3.python..-m#ipykernel_launcher
+Info 06:45:27: Interrupt requested & no kernel.
+Info 06:45:27: Setting setActiveController for ~/Untitled.ipynb
+Info 06:45:27: Execute Cells request 0
+Info 06:45:27: Execute Cell 0 ~/Untitled.ipynb
+Info 06:45:27: Starting Notebook in kernel.ts id = .python3.python..-m#ipykernel_launcher
+Info 06:45:27: Creating raw notebook for ~/Untitled.ipynb
+Info 06:45:27: Getting preferred kernel for ~/Untitled.ipynb
+Info 06:45:27: Computing working directory ~/Untitled.ipynb
+Info 06:45:27: Starting raw kernel Python 3 (ipykernel)
+Info 06:45:27: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+Info 06:45:27: Launching Raw Kernel & not daemon Python 3 (ipykernel) # python
+Info 06:45:27: No custom variables for Kernel as interpreter path is not defined for kernel Python 3 (ipykernel)
+Info 06:45:27: Process Execution: > python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"3141d171-ebbe-4730-ae00-de470d577c58" --shell=9002 --transport="tcp" --iopub=9004 --f=/tmp/tmp-3137yKljafxInKda.json
+> python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"3141d171-ebbe-4730-ae00-de470d577c58" --shell=9002 --transport="tcp" --iopub=9004 --f=/tmp/tmp-3137yKljafxInKda.json
+Info 06:45:27: Process Execution: cwd: ~/
+cwd: ~/
+Info 06:45:27: KernelProvider switched kernel to id = .python3.python..-m#ipykernel_launcher
+Warn 06:45:31: StdErr from Kernel Process /usr/local/lib/python3.10/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+/usr/local/lib/python3.10/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '3141d171-ebbe-4730-ae00-de470d577c58' instead of 'b"3141d171-ebbe-4730-ae00-de470d577c58"'.
+  warn(
+
+Info 06:45:31: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing /tmp/tmp-3137yKljafxInKda.json
+
+Info 06:45:31: Raw session started and connected
+Started kernel Python 3 (ipykernel)
+Info 06:45:31: Finished connecting f3dee348-01b2-42e9-abb8-52d0f6313c93
+Info 06:45:32: UpdateWorkingDirectoryAndPath in Kernel
+Info 06:45:32: Executing silently Code (idle) = import site\nsite.addsitedir(site.getusersitepackages())\nimport os\nimport sys\n%cd "/root"\nif os.getcw
+Info 06:45:33: Executing silently Code (completed) = import site\nsite.addsitedir(site.getusersitepackages())\nimport os\nimport sys\n%cd "/root"\nif os.getcw
+Info 06:45:33: Waiting for idle on (kernel): e5192526-2648-4ffc-b86c-75e312a04cc0 -> idle
+Info 06:45:33: Finished waiting for idle on (kernel): e5192526-2648-4ffc-b86c-75e312a04cc0 -> idle
+Info 06:45:56: Cell 0 executed with state Success
+Info 06:46:04: Restart requested file:///root/Untitled.ipynb
+Info 06:46:04: Restart kernel execution
+Info 06:46:04: Cancel pending cells
+Info 06:46:04: Starting raw kernel Python 3 (ipykernel)
+Info 06:46:04: Restarting e5192526-2648-4ffc-b86c-75e312a04cc0
+Info 06:46:04: Kernel launching with ports 9005,9006,9007,9008,9009. Start port is 9000
+Info 06:46:04: Launching Raw Kernel & not daemon Python 3 (ipykernel) # python
+Info 06:46:04: No custom variables for Kernel as interpreter path is not defined for kernel Python 3 (ipykernel)
+Info 06:46:04: Process Execution: > python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9008 --control=9006 --hb=9005 --Session.signature_scheme="hmac-sha256" --Session.key=b"40db999c-5248-4a3a-9eb5-0a360883dee9" --shell=9007 --transport="tcp" --iopub=9009 --f=/tmp/tmp-3137NKal3HuuUxjK.json
+> python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9008 --control=9006 --hb=9005 --Session.signature_scheme="hmac-sha256" --Session.key=b"40db999c-5248-4a3a-9eb5-0a360883dee9" --shell=9007 --transport="tcp" --iopub=9009 --f=/tmp/tmp-3137NKal3HuuUxjK.json
+Info 06:46:04: Process Execution: cwd: ~/
+cwd: ~/
+Warn 06:46:04: StdErr from Kernel Process /usr/local/lib/python3.10/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+/usr/local/lib/python3.10/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '40db999c-5248-4a3a-9eb5-0a360883dee9' instead of 'b"40db999c-5248-4a3a-9eb5-0a360883dee9"'.
+  warn(
+
+Info 06:46:04: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing /tmp/tmp-3137NKal3HuuUxjK.json
+
+Warn 06:46:05: Didn't get response for requestKernelInfo after 22ms.
+Info 06:46:05: Got new session ca6a4b4b-1eb8-4fdf-adf6-8751ed3f783b
+Info 06:46:05: Started new restart session
+Info 06:46:05: Dispose Kernel process
+Info 06:46:06: UpdateWorkingDirectoryAndPath in Kernel
+Info 06:46:06: Executing silently Code (idle) = import site\nsite.addsitedir(site.getusersitepackages())\nimport os\nimport sys\n%cd "/root"\nif os.getcw
+Info 06:46:06: Executing silently Code (completed) = import site\nsite.addsitedir(site.getusersitepackages())\nimport os\nimport sys\n%cd "/root"\nif os.getcw
+Info 06:46:06: Waiting for idle on (kernel): ca6a4b4b-1eb8-4fdf-adf6-8751ed3f783b -> idle
+Info 06:46:06: Finished waiting for idle on (kernel): ca6a4b4b-1eb8-4fdf-adf6-8751ed3f783b -> idle
+Info 06:46:10: Execute Cells request 0
+Info 06:46:10: Execute Cell 0 ~/Untitled.ipynb
+Info 06:46:13: Cell 0 executed with state Success
+Info 06:48:02: Execute Cells request 2
+Info 06:48:02: Execute Cell 2 ~/Untitled.ipynb
+Info 06:48:02: Cell 2 executed with state Success
+Info 06:52:44: Execute Cells request 0
+Info 06:52:44: Execute Cell 0 ~/Untitled.ipynb
+Info 06:52:44: Cell 0 executed with state Success
+Info 06:52:53: Disposing kernel .python3.python..-m#ipykernel_launcher for notebook ~/Untitled.ipynb due to selection of another kernel or closing of the notebook
+Info 06:52:53: Dispose kernel file:///root/Untitled.ipynb
+Info 06:52:53: Dispose Kernel process
+Info 06:52:53: Notebook Closed ~/Untitled.ipynb
+Info 06:53:02: Setting setActiveController for ~/Untitled.ipynb
+Info 06:53:02: Find preferred kernel for ~/Untitled.ipynb with metadata {"kernelspec":{"display_name":"Python 3 (ipykernel)","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.2"}} & preferred interpreter 
+Info 06:53:02: findKernel found Python 3 (ipykernel)
+Info 06:53:02: PreferredConnection: .python3.python..-m#ipykernel_launcher found for NotebookDocument: ~/Untitled.ipynb
+Info 06:53:02: TargetController found ID: .python3.python..-m#ipykernel_launcher for document ~/Untitled.ipynb
+Info 06:53:02: Setting controller affinity for ~/Untitled.ipynb .python3.python..-m#ipykernel_launcher
+Info 06:53:02: KernelProvider switched kernel to id = .python3.python..-m#ipykernel_launcher
+Info 06:53:10: Execute Cells request 0
+Info 06:53:10: Execute Cell 0 ~/Untitled.ipynb
+Info 06:53:10: Starting Notebook in kernel.ts id = .python3.python..-m#ipykernel_launcher
+Info 06:53:10: Creating raw notebook for ~/Untitled.ipynb
+Info 06:53:10: Getting preferred kernel for ~/Untitled.ipynb
+Info 06:53:10: Computing working directory ~/Untitled.ipynb
+Info 06:53:10: Starting raw kernel Python 3 (ipykernel)
+Info 06:53:10: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+Info 06:53:10: Launching Raw Kernel & not daemon Python 3 (ipykernel) # python
+Info 06:53:10: No custom variables for Kernel as interpreter path is not defined for kernel Python 3 (ipykernel)
+Info 06:53:10: Process Execution: > python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"be21205b-0529-4908-a420-eb24dbb046b2" --shell=9002 --transport="tcp" --iopub=9004 --f=/tmp/tmp-3137itqiND8EmE9T.json
+> python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"be21205b-0529-4908-a420-eb24dbb046b2" --shell=9002 --transport="tcp" --iopub=9004 --f=/tmp/tmp-3137itqiND8EmE9T.json
+Info 06:53:10: Process Execution: cwd: ~/
+cwd: ~/
+Warn 06:53:10: StdErr from Kernel Process /usr/local/lib/python3.10/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+/usr/local/lib/python3.10/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'be21205b-0529-4908-a420-eb24dbb046b2' instead of 'b"be21205b-0529-4908-a420-eb24dbb046b2"'.
+  warn(
+
+Info 06:53:10: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing /tmp/tmp-3137itqiND8EmE9T.json
+
+Info 06:53:10: Raw session started and connected
+Started kernel Python 3 (ipykernel)
+Info 06:53:10: Finished connecting f3dee348-01b2-42e9-abb8-52d0f6313c93
+Info 06:53:11: UpdateWorkingDirectoryAndPath in Kernel
+Info 06:53:11: Executing silently Code (idle) = import site\nsite.addsitedir(site.getusersitepackages())\nimport os\nimport sys\n%cd "/root"\nif os.getcw
+Info 06:53:11: Executing silently Code (completed) = import site\nsite.addsitedir(site.getusersitepackages())\nimport os\nimport sys\n%cd "/root"\nif os.getcw
+Info 06:53:11: Waiting for idle on (kernel): 99b829ec-a710-4474-bbb4-16acbb3a70e4 -> idle
+Info 06:53:11: Finished waiting for idle on (kernel): 99b829ec-a710-4474-bbb4-16acbb3a70e4 -> idle
+Info 06:53:16: Cell 0 executed with state Success
+Info 07:47:42: Disposing kernel .python3.python..-m#ipykernel_launcher for notebook ~/Untitled.ipynb due to selection of another kernel or closing of the notebook
+Info 07:47:42: Dispose kernel file:///root/Untitled.ipynb
+Info 07:47:42: Dispose Kernel process
+Info 07:47:42: Notebook Closed ~/Untitled.ipynb
+Info 07:47:50: Find preferred kernel for ~/opt/Untitled.ipynb with metadata {"kernelspec":{"display_name":"Python 3 (ipykernel)","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.2"}} & preferred interpreter 
+Info 07:47:50: findKernel found Python 3 (ipykernel)
+Info 07:47:50: PreferredConnection: .python3.python..-m#ipykernel_launcher found for NotebookDocument: ~/opt/Untitled.ipynb
+Info 07:47:50: TargetController found ID: .python3.python..-m#ipykernel_launcher for document ~/opt/Untitled.ipynb
+Info 07:47:50: Setting controller affinity for ~/opt/Untitled.ipynb .python3.python..-m#ipykernel_launcher
+Info 07:48:50: Find preferred kernel for ~/opt/死亡率.ipynb with metadata {"orig_nbformat":4,"language_info":{"name":"plaintext"}} & preferred interpreter 
+Info 07:49:35: Setting setActiveController for ~/opt/死亡率.ipynb
+Info 07:49:35: Interrupt requested & no kernel.
+Info 07:49:35: Execute Cells request 0
+Info 07:49:35: Execute Cell 0 ~/opt/死亡率.ipynb
+Info 07:49:35: Starting Notebook in kernel.ts id = .python3.python..-m#ipykernel_launcher
+Info 07:49:35: Creating raw notebook for ~/opt/死亡率.ipynb
+Info 07:49:35: Getting preferred kernel for ~/opt/死亡率.ipynb
+Info 07:49:35: Computing working directory ~/opt/死亡率.ipynb
+Info 07:49:35: Starting raw kernel Python 3 (ipykernel)
+Info 07:49:35: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+Info 07:49:35: Launching Raw Kernel & not daemon Python 3 (ipykernel) # python
+Info 07:49:35: No custom variables for Kernel as interpreter path is not defined for kernel Python 3 (ipykernel)
+Info 07:49:35: KernelProvider switched kernel to id = .python3.python..-m#ipykernel_launcher
+Info 07:49:35: Process Execution: > python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"30f123f9-a61c-4dbb-9ff1-c21249fa67e8" --shell=9002 --transport="tcp" --iopub=9004 --f=/tmp/tmp-3137Ou7e0Q0ZTJOh.json
+> python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"30f123f9-a61c-4dbb-9ff1-c21249fa67e8" --shell=9002 --transport="tcp" --iopub=9004 --f=/tmp/tmp-3137Ou7e0Q0ZTJOh.json
+Info 07:49:35: Process Execution: cwd: ~/opt
+cwd: ~/opt
+Warn 07:49:36: StdErr from Kernel Process /usr/local/lib/python3.10/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+/usr/local/lib/python3.10/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '30f123f9-a61c-4dbb-9ff1-c21249fa67e8' instead of 'b"30f123f9-a61c-4dbb-9ff1-c21249fa67e8"'.
+  warn(
+
+Info 07:49:36: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing /tmp/tmp-3137Ou7e0Q0ZTJOh.json
+
+Info 07:49:36: Raw session started and connected
+Started kernel Python 3 (ipykernel)
+Info 07:49:36: Finished connecting f3dee348-01b2-42e9-abb8-52d0f6313c93
+Info 07:49:36: UpdateWorkingDirectoryAndPath in Kernel
+Info 07:49:36: Executing silently Code (idle) = import site\nsite.addsitedir(site.getusersitepackages())\nimport os\nimport sys\n%cd "/root/opt"\nif os.g
+Info 07:49:36: Executing silently Code (completed) = import site\nsite.addsitedir(site.getusersitepackages())\nimport os\nimport sys\n%cd "/root/opt"\nif os.g
+Info 07:49:36: Waiting for idle on (kernel): d9f9fe83-501a-4b5c-94b3-7fc90cb0cbd5 -> idle
+Info 07:49:36: Finished waiting for idle on (kernel): d9f9fe83-501a-4b5c-94b3-7fc90cb0cbd5 -> idle
+Info 07:49:36: Cell 0 executed with state Idle
+Info 07:49:56: Execute Cells request 0
+Info 07:49:56: Execute Cell 0 ~/opt/死亡率.ipynb
+Info 07:49:57: Cell 0 executed with state Success

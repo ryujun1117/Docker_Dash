@@ -1,0 +1,9 @@
+[user]
+	name = ryujun1117
+	email = ryuryu1117.p@gmail.com
+[credential "helperselector"]
+	selected = manager
+[color]
+	ui = auto
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/5554b12acf27056905806867f251c859323ff7e9/node /tmp/vscode-remote-containers-765d3450d7a94a6aa0a8ff580d7c98fae256d9c9.js $*; }; f"

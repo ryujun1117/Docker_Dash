@@ -1,0 +1,113 @@
+[2022-02-05 15:43:40.268] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-05 15:43:40.268] [remoteagent] [info] Extension host agent started.
+[2022-02-05 15:43:42.770] [remoteagent] [info] [::ffff:127.0.0.1][a59419cc][ManagementConnection] New connection established.
+[2022-02-05 15:43:45.191] [remoteagent] [info] [::ffff:127.0.0.1][fbaab721][ExtensionHostConnection] New connection established.
+[2022-02-05 15:43:45.197] [remoteagent] [info] [::ffff:127.0.0.1][fbaab721][ExtensionHostConnection] <2526> Launched Extension Host Process.
+[2022-02-05 15:43:47.211] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+[2022-02-05 15:43:47.211] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+[2022-02-05 15:43:47.393] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+[2022-02-05 15:43:47.460] [remoteagent] [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-ja
+[2022-02-05 15:43:50.870] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ja /root/.vscode-server/extensionsCache/ms-ceintl.vscode-language-pack-ja-1.64.6
+[2022-02-05 15:43:51.375] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.ce64d618-92d1-4916-8a1b-5c9a8e015eb0: ms-ceintl.vscode-language-pack-ja
+[2022-02-05 15:43:51.386] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ja-1.64.6
+[2022-02-05 15:43:51.388] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-ja
+[2022-02-05 15:43:51.393] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+[2022-02-05 15:43:51.512] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+[2022-02-05 15:43:58.607] [remoteagent] [info] [::ffff:127.0.0.1][a59419cc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-05 15:43:58.636] [remoteagent] [info] [::ffff:127.0.0.1][fbaab721][ExtensionHostConnection] <2526> Extension Host Process exited with code: 0, signal: null.
+[2022-02-05 15:44:14.806] [remoteagent] [info] [::ffff:127.0.0.1][3e1c326e][ManagementConnection] New connection established.
+[2022-02-05 15:44:16.243] [remoteagent] [info] [::ffff:127.0.0.1][d2d5e54a][ExtensionHostConnection] New connection established.
+[2022-02-05 15:44:16.250] [remoteagent] [info] [::ffff:127.0.0.1][d2d5e54a][ExtensionHostConnection] <3137> Launched Extension Host Process.
+[2022-02-05 15:45:08.947] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-02-05 15:45:09.177] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-02-05 15:45:09.555] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-02-05 15:45:09.726] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-02-05 15:45:10.157] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-02-05 15:45:10.158] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-02-05 15:45:11.042] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /root/.vscode-server/extensionsCache/ms-toolsai.jupyter-keymap-1.0.0
+[2022-02-05 15:45:11.218] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.b8655940-7db9-4195-99c1-1b9bd4b00036: ms-toolsai.jupyter-keymap
+[2022-02-05 15:45:11.243] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-02-05 15:45:11.250] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-02-05 15:45:11.869] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /root/.vscode-server/extensionsCache/ms-toolsai.jupyter-renderers-1.0.6
+[2022-02-05 15:45:12.581] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-02-05 15:45:12.882] [remoteagent] [info] Extensions is already requested to install ms-toolsai.jupyter
+[2022-02-05 15:45:12.922] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.0e2ad093-0f04-43a8-b4a2-fe16c0a0644c: ms-toolsai.jupyter-renderers
+[2022-02-05 15:45:13.152] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.6
+[2022-02-05 15:45:13.158] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-02-05 15:45:16.902] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /root/.vscode-server/extensionsCache/ms-toolsai.jupyter-2022.1.1001775990
+[2022-02-05 15:45:20.191] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.6584aa12-46ba-40ab-8a25-37d430aca76f: ms-toolsai.jupyter
+[2022-02-05 15:45:20.248] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-2022.1.1001775990
+[2022-02-05 15:45:20.252] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-02-05 15:45:20.254] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-02-05 15:45:20.254] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-02-05 15:45:20.254] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-02-05 15:45:31.351] [remoteagent] [info] [::ffff:127.0.0.1][d2d5e54a][ExtensionHostConnection] <3137> Starting WebSocket: RAW/api/kernels/e5192526-2648-4ffc-b86c-75e312a04cc0
+
+[2022-02-05 15:46:05.150] [remoteagent] [info] [::ffff:127.0.0.1][d2d5e54a][ExtensionHostConnection] <3137> Starting WebSocket: RAW/api/kernels/ca6a4b4b-1eb8-4fdf-adf6-8751ed3f783b
+
+[2022-02-05 15:46:05.965] [remoteagent] [info] [::ffff:127.0.0.1][d2d5e54a][ExtensionHostConnection] <3137> Kernel: starting (ca6a4b4b-1eb8-4fdf-adf6-8751ed3f783b)
+
+[2022-02-05 15:50:42.374] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-02-05 15:50:42.956] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-02-05 15:50:43.172] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /root/.vscode-server/extensionsCache/ms-toolsai.jupyter-2022.1.1001775990
+[2022-02-05 15:50:45.482] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.d7277251-63bb-4dbe-91db-af191dc65efc: ms-toolsai.jupyter
+[2022-02-05 15:50:45.553] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-2022.1.1001775990
+[2022-02-05 15:50:45.557] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-02-05 15:50:45.558] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-02-05 15:51:09.926] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-02-05 15:51:10.239] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-02-05 15:51:10.993] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /root/.vscode-server/extensionsCache/ms-toolsai.jupyter-2022.1.1001775990
+[2022-02-05 15:51:13.550] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.a933e7b0-9a25-432a-a931-ba629e562783: ms-toolsai.jupyter
+[2022-02-05 15:51:13.577] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-toolsai.jupyter-2022.1.1001775990
+[2022-02-05 15:51:13.586] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-02-05 15:51:13.587] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-02-05 15:53:10.913] [remoteagent] [info] [::ffff:127.0.0.1][d2d5e54a][ExtensionHostConnection] <3137> Starting WebSocket: RAW/api/kernels/99b829ec-a710-4474-bbb4-16acbb3a70e4
+
+[2022-02-05 16:49:36.184] [remoteagent] [info] [::ffff:127.0.0.1][d2d5e54a][ExtensionHostConnection] <3137> Starting WebSocket: RAW/api/kernels/d9f9fe83-501a-4b5c-94b3-7fc90cb0cbd5
+
+[2022-02-06 00:03:56.274] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 00:04:07.684] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 00:05:52.670] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 00:09:30.170] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 00:12:53.702] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 00:14:23.459] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 00:16:34.663] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 00:17:39.805] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 00:17:47.145] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:15:31.635] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:15:56.736] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:16:02.708] [remoteagent] [error] No ptyHost heartbeat after 12 seconds
+[2022-02-06 01:16:16.369] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:16:30.384] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:16:41.720] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:16:49.348] [remoteagent] [error] No ptyHost heartbeat after 12 seconds
+[2022-02-06 01:17:01.234] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:17:17.957] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:17:29.717] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:17:38.526] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:17:48.045] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:17:58.957] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:18:18.668] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:18:35.837] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:18:42.116] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:19:22.918] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:20:13.391] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:20:27.678] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:20:42.386] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:20:53.079] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:20:59.997] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:21:24.149] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:21:30.496] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:50:51.189] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:51:17.184] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:51:54.688] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-02-06 01:52:11.092] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
